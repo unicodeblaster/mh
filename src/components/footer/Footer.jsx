@@ -20,7 +20,7 @@ const Footer = () => {
                             rel="noopener noreferrer"
                             target="_blank"
                         >
-                            @Mh20
+                            @Kiran Nikam
                         </Link>
                     </p>
                     
